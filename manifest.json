@@ -1,0 +1,216 @@
+{
+ "version": 1,
+ "pu": 2.4,
+ "box": {
+  "x": -30,
+  "y": -60,
+  "w": 210,
+  "h": 220
+ },
+ "variants": [
+  "a",
+  "b"
+ ],
+ "hairs": [
+  "Short",
+  "Buzz",
+  "Long wavy",
+  "Curly top",
+  "Messy bun",
+  "High ponytail",
+  "Twin braids",
+  "Space buns",
+  "Spiky",
+  "Wavy",
+  "Swoop",
+  "Side sweep",
+  "Wavy short",
+  "Shaggy",
+  "Slick",
+  "Tousled",
+  "Ponytail",
+  "Bob",
+  "Low ponytail",
+  "Side bob",
+  "Sleek bob",
+  "Pixie",
+  "Side braid",
+  "Curly"
+ ],
+ "hats": {
+  "hat_pirate": "hats/hat_pirate.png",
+  "hat_propeller": "hats/hat_propeller.png",
+  "hat_crown": "hats/hat_crown.png",
+  "hat_viking": "hats/hat_viking.png",
+  "hat_tophat": "hats/hat_tophat.png",
+  "hat_sun": "hats/hat_sun.png",
+  "hat_wizard": "hats/hat_wizard.png"
+ },
+ "rods": {
+  "bamboo": "rods/rod_bamboo.png",
+  "carbon": "rods/rod_carbon.png",
+  "candy": "rods/rod_candy.png",
+  "pirate": "rods/rod_pirate.png",
+  "star": "rods/rod_star.png",
+  "gold": "rods/rod_gold.png",
+  "cyber": "rods/rod_cyber.png",
+  "knight": "rods/rod_knight.png",
+  "shark": "rods/rod_shark.png",
+  "unicorn": "rods/rod_unicorn.png",
+  "gear": "rods/rod_gear.png",
+  "twig": "rods/rod_twig.png"
+ },
+ "tip": {
+  "x": 122.4551707391356,
+  "y": 2.3622751607102606
+ },
+ "seatX": 0.5583781476739222,
+ "head": {
+  "cx": 50.803894031896064,
+  "cy": 26.806658130601797,
+  "r": 20.076824583866838
+ },
+ "fish": {
+  "pinfish": {
+   "file": "fish/pinfish.png",
+   "w": 320,
+   "h": 186
+  },
+  "croaker": {
+   "file": "fish/croaker.png",
+   "w": 320,
+   "h": 240
+  },
+  "sandtrout": {
+   "file": "fish/sandtrout.png",
+   "w": 307,
+   "h": 249
+  },
+  "specktrout": {
+   "file": "fish/specktrout.png",
+   "w": 320,
+   "h": 217
+  },
+  "flounder": {
+   "file": "fish/flounder.png",
+   "w": 320,
+   "h": 227
+  },
+  "sheepshead": {
+   "file": "fish/sheepshead.png",
+   "w": 320,
+   "h": 287
+  },
+  "redfish": {
+   "file": "fish/redfish.png",
+   "w": 320,
+   "h": 294
+  },
+  "blackdrum": {
+   "file": "fish/blackdrum.png",
+   "w": 320,
+   "h": 203
+  },
+  "snook": {
+   "file": "fish/snook.png",
+   "w": 311,
+   "h": 239
+  },
+  "tarpon": {
+   "file": "fish/tarpon.png",
+   "w": 320,
+   "h": 185
+  },
+  "blacktip": {
+   "file": "fish/blacktip.png",
+   "w": 320,
+   "h": 255
+  },
+  "goldtarpon": {
+   "file": "fish/goldtarpon.png",
+   "w": 320,
+   "h": 213
+  }
+ },
+ "scene": {
+  "sky": "scene/sky.jpg",
+  "skyHorizon": 0.9300595238095238,
+  "sun": "scene/sun.png",
+  "oceanTop": "scene/ocean_top.png",
+  "oceanTopH": 165,
+  "oceanCrest": 59,
+  "oceanMid": "scene/ocean_mid.jpg",
+  "oceanFloor": "scene/ocean_floor.jpg",
+  "oceanFloorH": 160,
+  "oceanW": 1320,
+  "deck": "scene/deck.png",
+  "deckW": 1432,
+  "deckH": 112,
+  "postLong": "scene/post_long.png",
+  "postShort": "scene/post_short.png",
+  "skyW": 1584,
+  "skyH": 672
+ },
+ "decor": [
+  {
+   "file": "decor/decor_00.png",
+   "w": 143,
+   "h": 268
+  },
+  {
+   "file": "decor/decor_01.png",
+   "w": 154,
+   "h": 273
+  },
+  {
+   "file": "decor/decor_02.png",
+   "w": 250,
+   "h": 238
+  },
+  {
+   "file": "decor/decor_03.png",
+   "w": 300,
+   "h": 116
+  },
+  {
+   "file": "decor/decor_04.png",
+   "w": 240,
+   "h": 211
+  },
+  {
+   "file": "decor/decor_05.png",
+   "w": 211,
+   "h": 215
+  },
+  {
+   "file": "decor/decor_06.png",
+   "w": 224,
+   "h": 162
+  },
+  {
+   "file": "decor/decor_07.png",
+   "w": 229,
+   "h": 163
+  },
+  {
+   "file": "decor/decor_08.png",
+   "w": 300,
+   "h": 193
+  },
+  {
+   "file": "decor/decor_09.png",
+   "w": 300,
+   "h": 124
+  },
+  {
+   "file": "decor/decor_10.png",
+   "w": 207,
+   "h": 145
+  },
+  {
+   "file": "decor/decor_11.png",
+   "w": 162,
+   "h": 153
+  }
+ ]
+}
