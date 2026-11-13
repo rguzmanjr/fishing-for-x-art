@@ -1,5 +1,5 @@
 {
- "version": 1,
+ "version": 2,
  "pu": 2.4,
  "box": {
   "x": -30,
@@ -38,27 +38,27 @@
   "Curly"
  ],
  "hats": {
-  "hat_pirate": "hats/hat_pirate.png",
-  "hat_propeller": "hats/hat_propeller.png",
-  "hat_crown": "hats/hat_crown.png",
-  "hat_viking": "hats/hat_viking.png",
-  "hat_tophat": "hats/hat_tophat.png",
-  "hat_sun": "hats/hat_sun.png",
-  "hat_wizard": "hats/hat_wizard.png"
+  "hat_pirate": "hat_pirate.png",
+  "hat_propeller": "hat_propeller.png",
+  "hat_crown": "hat_crown.png",
+  "hat_viking": "hat_viking.png",
+  "hat_tophat": "hat_tophat.png",
+  "hat_sun": "hat_sun.png",
+  "hat_wizard": "hat_wizard.png"
  },
  "rods": {
-  "bamboo": "rods/rod_bamboo.png",
-  "carbon": "rods/rod_carbon.png",
-  "candy": "rods/rod_candy.png",
-  "pirate": "rods/rod_pirate.png",
-  "star": "rods/rod_star.png",
-  "gold": "rods/rod_gold.png",
-  "cyber": "rods/rod_cyber.png",
-  "knight": "rods/rod_knight.png",
-  "shark": "rods/rod_shark.png",
-  "unicorn": "rods/rod_unicorn.png",
-  "gear": "rods/rod_gear.png",
-  "twig": "rods/rod_twig.png"
+  "bamboo": "rod_bamboo.png",
+  "carbon": "rod_carbon.png",
+  "candy": "rod_candy.png",
+  "pirate": "rod_pirate.png",
+  "star": "rod_star.png",
+  "gold": "rod_gold.png",
+  "cyber": "rod_cyber.png",
+  "knight": "rod_knight.png",
+  "shark": "rod_shark.png",
+  "unicorn": "rod_unicorn.png",
+  "gear": "rod_gear.png",
+  "twig": "rod_twig.png"
  },
  "tip": {
   "x": 122.4551707391356,
@@ -72,145 +72,146 @@
  },
  "fish": {
   "pinfish": {
-   "file": "fish/pinfish.png",
+   "file": "pinfish.png",
    "w": 320,
    "h": 186
   },
   "croaker": {
-   "file": "fish/croaker.png",
+   "file": "croaker.png",
    "w": 320,
    "h": 240
   },
   "sandtrout": {
-   "file": "fish/sandtrout.png",
+   "file": "sandtrout.png",
    "w": 307,
    "h": 249
   },
   "specktrout": {
-   "file": "fish/specktrout.png",
+   "file": "specktrout.png",
    "w": 320,
    "h": 217
   },
   "flounder": {
-   "file": "fish/flounder.png",
+   "file": "flounder.png",
    "w": 320,
    "h": 227
   },
   "sheepshead": {
-   "file": "fish/sheepshead.png",
+   "file": "sheepshead.png",
    "w": 320,
    "h": 287
   },
   "redfish": {
-   "file": "fish/redfish.png",
+   "file": "redfish.png",
    "w": 320,
    "h": 294
   },
   "blackdrum": {
-   "file": "fish/blackdrum.png",
+   "file": "blackdrum.png",
    "w": 320,
    "h": 203
   },
   "snook": {
-   "file": "fish/snook.png",
+   "file": "snook.png",
    "w": 311,
    "h": 239
   },
   "tarpon": {
-   "file": "fish/tarpon.png",
+   "file": "tarpon.png",
    "w": 320,
    "h": 185
   },
   "blacktip": {
-   "file": "fish/blacktip.png",
+   "file": "blacktip.png",
    "w": 320,
    "h": 255
   },
   "goldtarpon": {
-   "file": "fish/goldtarpon.png",
+   "file": "goldtarpon.png",
    "w": 320,
    "h": 213
   }
  },
  "scene": {
-  "sky": "scene/sky.jpg",
+  "sky": "sky.jpg",
   "skyHorizon": 0.9300595238095238,
-  "sun": "scene/sun.png",
-  "oceanTop": "scene/ocean_top.png",
+  "sun": "sun.png",
+  "oceanTop": "ocean_top.png",
   "oceanTopH": 165,
   "oceanCrest": 59,
-  "oceanMid": "scene/ocean_mid.jpg",
-  "oceanFloor": "scene/ocean_floor.jpg",
+  "oceanMid": "ocean_mid.jpg",
+  "oceanFloor": "ocean_floor.jpg",
   "oceanFloorH": 160,
   "oceanW": 1320,
-  "deck": "scene/deck.png",
+  "deck": "deck.png",
   "deckW": 1432,
   "deckH": 112,
-  "postLong": "scene/post_long.png",
-  "postShort": "scene/post_short.png",
+  "postLong": "post_long.png",
+  "postShort": "post_short.png",
   "skyW": 1584,
   "skyH": 672
  },
  "decor": [
   {
-   "file": "decor/decor_00.png",
+   "file": "decor_00.png",
    "w": 143,
    "h": 268
   },
   {
-   "file": "decor/decor_01.png",
+   "file": "decor_01.png",
    "w": 154,
    "h": 273
   },
   {
-   "file": "decor/decor_02.png",
+   "file": "decor_02.png",
    "w": 250,
    "h": 238
   },
   {
-   "file": "decor/decor_03.png",
+   "file": "decor_03.png",
    "w": 300,
    "h": 116
   },
   {
-   "file": "decor/decor_04.png",
+   "file": "decor_04.png",
    "w": 240,
    "h": 211
   },
   {
-   "file": "decor/decor_05.png",
+   "file": "decor_05.png",
    "w": 211,
    "h": 215
   },
   {
-   "file": "decor/decor_06.png",
+   "file": "decor_06.png",
    "w": 224,
    "h": 162
   },
   {
-   "file": "decor/decor_07.png",
+   "file": "decor_07.png",
    "w": 229,
    "h": 163
   },
   {
-   "file": "decor/decor_08.png",
+   "file": "decor_08.png",
    "w": 300,
    "h": 193
   },
   {
-   "file": "decor/decor_09.png",
+   "file": "decor_09.png",
    "w": 300,
    "h": 124
   },
   {
-   "file": "decor/decor_10.png",
+   "file": "decor_10.png",
    "w": 207,
    "h": 145
   },
   {
-   "file": "decor/decor_11.png",
+   "file": "decor_11.png",
    "w": 162,
    "h": 153
   }
- ]
+ ],
+ "flat": true
 }
