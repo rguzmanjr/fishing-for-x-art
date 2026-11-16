@@ -1,5 +1,5 @@
 {
- "version": 3,
+ "version": 8,
  "pu": 2.4,
  "box": {
   "x": -30,
@@ -228,6 +228,309 @@
    "dy": 8,
    "cx": 194.2,
    "cy": 213.5
+  }
+ },
+ "outfits": {
+  "suit": {
+   "bare": false,
+   "a": {
+    "top": "outfit_suit_a_top.png",
+    "bot": "outfit_suit_a_bot.png",
+    "white": "outfit_suit_a_white.png"
+   },
+   "b": {
+    "top": "outfit_suit_b_top.png",
+    "bot": "outfit_suit_b_bot.png",
+    "white": "outfit_suit_b_white.png"
+   }
+  },
+  "hoodie": {
+   "bare": false,
+   "a": {
+    "top": "outfit_hoodie_a_top.png",
+    "bot": "outfit_hoodie_a_bot.png",
+    "white": "outfit_hoodie_a_white.png"
+   },
+   "b": {
+    "top": "outfit_hoodie_b_top.png",
+    "bot": "outfit_hoodie_b_bot.png",
+    "white": "outfit_hoodie_b_white.png"
+   }
+  },
+  "beachwear": {
+   "bare": true,
+   "a": {
+    "top": "outfit_beachwear_a_top.png",
+    "bot": "outfit_beachwear_a_bot.png",
+    "white": "outfit_beachwear_a_white.png"
+   },
+   "b": {
+    "top": "outfit_beachwear_b_top.png",
+    "bot": "outfit_beachwear_b_bot.png",
+    "white": "outfit_beachwear_b_white.png"
+   }
+  },
+  "western": {
+   "bare": false,
+   "a": {
+    "top": "outfit_western_a_top.png",
+    "bot": "outfit_western_a_bot.png",
+    "white": "outfit_western_a_white.png"
+   },
+   "b": {
+    "top": "outfit_western_b_top.png",
+    "bot": "outfit_western_b_bot.png",
+    "white": "outfit_western_b_white.png"
+   }
+  },
+  "hawaiian": {
+   "bare": false,
+   "a": {
+    "top": "outfit_hawaiian_a_top.png",
+    "bot": "outfit_hawaiian_a_bot.png",
+    "white": "outfit_hawaiian_a_white.png"
+   },
+   "b": {
+    "top": "outfit_hawaiian_b_top.png",
+    "bot": "outfit_hawaiian_b_bot.png",
+    "white": "outfit_hawaiian_b_white.png"
+   }
+  }
+ },
+ "acc": {
+  "wayfarer": {
+   "a": "acc_wayfarer_a.png",
+   "b": "acc_wayfarer_b.png"
+  },
+  "aviator": {
+   "a": "acc_aviator_a.png",
+   "b": "acc_aviator_b.png"
+  },
+  "round": {
+   "a": "acc_round_a.png",
+   "b": "acc_round_b.png"
+  },
+  "sport": {
+   "a": "acc_sport_a.png",
+   "b": "acc_sport_b.png"
+  },
+  "cateye": {
+   "a": "acc_cateye_a.png",
+   "b": "acc_cateye_b.png"
+  },
+  "slim": {
+   "a": "acc_slim_a.png",
+   "b": "acc_slim_b.png"
+  },
+  "square": {
+   "a": "acc_square_a.png",
+   "b": "acc_square_b.png"
+  },
+  "heart": {
+   "a": "acc_heart_a.png",
+   "b": "acc_heart_b.png"
+  },
+  "star": {
+   "a": "acc_star_a.png",
+   "b": "acc_star_b.png"
+  },
+  "hex": {
+   "a": "acc_hex_a.png",
+   "b": "acc_hex_b.png"
+  }
+ },
+ "legs": {
+  "a": {
+   "skin": "a_legs_skin.png",
+   "rest": "a_legs_rest.png"
+  },
+  "b": {
+   "skin": "b_legs_skin.png",
+   "rest": "b_legs_rest.png"
+  }
+ },
+ "legsRest": {
+  "a": "a_body_legsrest.png",
+  "b": "b_body_legsrest.png"
+ },
+ "pets": {
+  "dog": {
+   "file": "pet_dog.png",
+   "white": "pet_dog_white.png",
+   "w": 204,
+   "h": 200
+  },
+  "cat": {
+   "file": "pet_cat.png",
+   "white": "pet_cat_white.png",
+   "w": 176,
+   "h": 200
+  },
+  "fox": {
+   "file": "pet_fox.png",
+   "white": "pet_fox_white.png",
+   "w": 201,
+   "h": 200
+  },
+  "bunny": {
+   "file": "pet_bunny.png",
+   "white": "pet_bunny_white.png",
+   "w": 144,
+   "h": 200
+  },
+  "otter": {
+   "file": "pet_otter.png",
+   "white": "pet_otter_white.png",
+   "w": 195,
+   "h": 200
+  },
+  "axolotl": {
+   "file": "pet_axolotl.png",
+   "white": "pet_axolotl_white.png",
+   "w": 303,
+   "h": 200
+  },
+  "turtle": {
+   "file": "pet_turtle.png",
+   "white": "pet_turtle_white.png",
+   "w": 222,
+   "h": 200
+  },
+  "owl": {
+   "file": "pet_owl.png",
+   "white": "pet_owl_white.png",
+   "w": 165,
+   "h": 200
+  },
+  "dragon": {
+   "file": "pet_dragon.png",
+   "white": "pet_dragon_white.png",
+   "w": 197,
+   "h": 200
+  },
+  "wingcat": {
+   "file": "pet_wingcat.png",
+   "white": "pet_wingcat_white.png",
+   "w": 185,
+   "h": 200
+  },
+  "crystalwolf": {
+   "file": "pet_crystalwolf.png",
+   "white": "pet_crystalwolf_white.png",
+   "w": 184,
+   "h": 200
+  },
+  "griffin": {
+   "file": "pet_griffin.png",
+   "white": "pet_griffin_white.png",
+   "w": 195,
+   "h": 200
+  }
+ },
+ "plates": {
+  "wave": {
+   "file": "plate_wave.png",
+   "w": 745,
+   "h": 150,
+   "slice": 0.32,
+   "text": "#FFFFFF",
+   "shadow": "0 1px 2px rgba(0,0,0,.65)"
+  },
+  "treasure": {
+   "file": "plate_treasure.png",
+   "w": 743,
+   "h": 150,
+   "slice": 0.32,
+   "text": "#4A2E00",
+   "shadow": "0 1px 0 rgba(255,255,255,.55)"
+  },
+  "reef": {
+   "file": "plate_reef.png",
+   "w": 745,
+   "h": 150,
+   "slice": 0.32,
+   "text": "#13303A",
+   "shadow": "0 1px 0 rgba(255,255,255,.6)"
+  },
+  "candy": {
+   "file": "plate_candy.png",
+   "w": 746,
+   "h": 150,
+   "slice": 0.3,
+   "text": "#7A1F4A",
+   "shadow": "0 1px 0 rgba(255,255,255,.6)"
+  },
+  "jungle": {
+   "file": "plate_jungle.png",
+   "w": 746,
+   "h": 150,
+   "slice": 0.3,
+   "text": "#FFFFFF",
+   "shadow": "0 1px 2px rgba(0,0,0,.7)"
+  },
+  "royal": {
+   "file": "plate_royal.png",
+   "w": 743,
+   "h": 150,
+   "slice": 0.3,
+   "text": "#FFD54A",
+   "shadow": "0 1px 2px rgba(0,0,0,.75)"
+  },
+  "neon": {
+   "file": "plate_neon.png",
+   "w": 750,
+   "h": 150,
+   "slice": 0.3,
+   "text": "#5CFFE1",
+   "shadow": "0 0 6px #5CFFE1, 0 0 2px #FF4FD8"
+  },
+  "lava": {
+   "file": "plate_lava.png",
+   "w": 751,
+   "h": 150,
+   "slice": 0.3,
+   "text": "#FFC56B",
+   "shadow": "0 0 5px rgba(255,110,0,.9), 0 1px 1px rgba(0,0,0,.8)"
+  },
+  "ice": {
+   "file": "plate_ice.png",
+   "w": 748,
+   "h": 150,
+   "slice": 0.3,
+   "text": "#0F3E66",
+   "shadow": "0 1px 0 rgba(255,255,255,.7)"
+  },
+  "galaxy": {
+   "file": "plate_galaxy.png",
+   "w": 748,
+   "h": 150,
+   "slice": 0.3,
+   "text": "#FFFFFF",
+   "shadow": "0 0 6px rgba(200,160,255,.95), 0 1px 1px rgba(0,0,0,.6)"
+  },
+  "pirate": {
+   "file": "plate_pirate.png",
+   "w": 752,
+   "h": 150,
+   "slice": 0.3,
+   "text": "#FFE9C2",
+   "shadow": "0 1px 2px rgba(0,0,0,.75)"
+  },
+  "shark": {
+   "file": "plate_shark.png",
+   "w": 750,
+   "h": 150,
+   "slice": 0.3,
+   "text": "#13303A",
+   "shadow": "0 1px 0 rgba(255,255,255,.6)"
+  },
+  "anchor": {
+   "file": "plate_anchor.png",
+   "w": 749,
+   "h": 150,
+   "slice": 0.3,
+   "text": "#FFE38A",
+   "shadow": "0 1px 2px rgba(0,0,0,.75)"
   }
  }
 }
