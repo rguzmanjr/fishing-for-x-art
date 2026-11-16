@@ -1,5 +1,5 @@
 {
- "version": 11,
+ "version": 14,
  "pu": 2.4,
  "box": {
   "x": -30,
@@ -542,5 +542,9 @@
   "hat_tophat": "hatclip_hat_tophat.png",
   "hat_sun": "hatclip_hat_sun.png",
   "hat_wizard": "hatclip_hat_wizard.png"
+ },
+ "hairCap": {
+  "a": "a_haircap.png",
+  "b": "b_haircap.png"
  }
 }
