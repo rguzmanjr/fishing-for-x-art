@@ -1,5 +1,5 @@
 {
- "version": 8,
+ "version": 11,
  "pu": 2.4,
  "box": {
   "x": -30,
@@ -342,11 +342,13 @@
  "legs": {
   "a": {
    "skin": "a_legs_skin.png",
-   "rest": "a_legs_rest.png"
+   "rest": "a_legs_rest.png",
+   "thigh": "a_legs_thigh.png"
   },
   "b": {
    "skin": "b_legs_skin.png",
-   "rest": "b_legs_rest.png"
+   "rest": "b_legs_rest.png",
+   "thigh": "b_legs_thigh.png"
   }
  },
  "legsRest": {
@@ -532,5 +534,13 @@
    "text": "#FFE38A",
    "shadow": "0 1px 2px rgba(0,0,0,.75)"
   }
+ },
+ "hatClip": {
+  "hat_pirate": "hatclip_hat_pirate.png",
+  "hat_propeller": "hatclip_hat_propeller.png",
+  "hat_viking": "hatclip_hat_viking.png",
+  "hat_tophat": "hatclip_hat_tophat.png",
+  "hat_sun": "hatclip_hat_sun.png",
+  "hat_wizard": "hatclip_hat_wizard.png"
  }
 }
